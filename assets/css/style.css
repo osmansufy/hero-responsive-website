@@ -22,9 +22,10 @@ img.nav-image {
 .color-heilight{
     color: #FABE4C;
 }
-.btn-custom-color{
-background-color: #8DA825;
-color:#fff;
+.btn-custom {
+    background-color: #8DA825;
+    color: #fff;
+    border-radius: 10px;
 }
 img {
     object-fit: cover;
