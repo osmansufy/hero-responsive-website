@@ -1,0 +1,81 @@
+
+body{
+    font-family: 'Roboto', sans-serif
+}
+img.nav-image {
+    height: 40px;
+    width: 292px;
+  
+    
+}
+.banner-img {
+    max-width: 440px;
+}
+
+.banner-info {
+    padding: 60px 0;
+}
+
+.banner-info p {
+    max-width: 400px;
+}
+.color-heilight{
+    color: #FABE4C;
+}
+.btn-custom-color{
+background-color: #8DA825;
+color:#fff;
+}
+img {
+    object-fit: cover;
+    object-position: center;
+}
+
+.custom-card-img{
+    width: auto;
+    object-fit: contain;
+    max-height: 293px;
+}
+.custom-radius-20{
+    border-radius: 20px  
+}
+.custom-card-fotter span {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+    
+}
+
+.custom-card .card-title{
+    font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #363958;
+}
+
+.service-item img {
+    width: 78px;
+    height: 82px;
+}
+
+
+
+.service-info h3 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.service-info p {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+
+
+    color: #3E3E3E;
+
+}
+
+
+
